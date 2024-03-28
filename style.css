@@ -1,0 +1,68 @@
+* {
+  
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  
+}
+
+body {
+    background-color: black;
+    color: white;
+    text-align: center;
+    max-height: 100%;
+    max-width: 100%;
+}
+
+header img {
+  
+  height: 250px;
+  border-radius: 10px;
+  box-shadow: 2px 4px 8px white;
+  
+  
+}
+
+header {
+  
+  margin-top: 10%;
+  
+}
+
+section nav {
+  
+  overflow-x: auto;
+  white-space: nowrap;
+  width: 97%;
+  
+}
+nav img {
+  
+  height: 200px;
+  margin: 5px;
+  border-radius: 10px;
+  box-shadow: 4px 8px 13px mediumpurple;
+}
+
+#publicar {
+  margin: 10px;
+  padding: 10px;
+  background-color: greenyellow;
+  color: black;
+  font-weight: bold;
+  border: none;
+  border-radius: 10px;
+}
+#boas-vindas {
+  
+  margin: 10px;
+  
+}
+
+#caixaForm {
+  
+  padding: 20px;
+  margin-top: 40%;
+  margin-left: auto;
+  margin-right: auto;
+}
