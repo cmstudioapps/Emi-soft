@@ -8,3 +8,10 @@ function silver() {
   window.location.href = "silverEye.html"
   
 }
+
+function planet() {
+   
+   window.location.href = "planet.html"
+  
+  
+}
